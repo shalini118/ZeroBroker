@@ -1,5 +1,7 @@
 # ZeroBroker - Real Estate Platform
 
+[**Visit the Deployed Website**](https://zero-broker-two.vercel.app/)
+
 ZeroBroker is a real estate platform where users can find homes and apartments without dealing with brokerage fees. It allows users to search for properties based on location, property type, and price range. The site provides an easy-to-use interface for browsing properties from different countries, including the United States, Canada, and India.
 
 ## Overview
@@ -25,4 +27,3 @@ The platform includes features like:
 - **Styling:** Tailwind CSS
 - **Routing:** React Router DOM
 - **Icons:** React Icons
-- **UI Components:** Headless UI (for modals, dropdowns, etc.)
